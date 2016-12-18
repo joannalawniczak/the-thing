@@ -1,0 +1,15 @@
+// General text styles.
+body {
+	color: $color-text;
+}
+
+// Link styles.
+a {
+	text-decoration: none;
+	color: $color-link;
+
+	&:hover {
+		text-decoration: underline;
+		color: $color-link-hover;
+	}
+}

@@ -1,0 +1,25 @@
+// Sticky header.
+.page-header {
+	position: fixed;
+	top: 0;
+	z-index: 10;
+	width: 100%;
+	box-shadow: 0 1px 10px rgba( 0, 0, 0, .15 );
+
+	.inner {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		min-height: $page-header-height;
+	}
+
+	.page-logo {
+		margin: 0;
+		font-size: 24px;
+	}
+}
+
+// Push page content below sticky header.
+body {
+	padding-top: $page-header-height;
+}
