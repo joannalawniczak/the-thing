@@ -1,0 +1,29 @@
+.welcome {
+	text-align: center;
+	background: url('../../dist/images/bg-welcome.svg') no-repeat;
+	background-size: cover;
+
+	.inner {
+		padding-top: 200px;
+		padding-bottom: 300px;
+	}
+
+	h1 {
+		padding-bottom: 40px;
+
+		a {
+			img {
+				width: 150px;
+			}
+		}
+	}
+
+	h2 {
+		padding-bottom: 20px;
+	}
+
+	p {
+		font-size: 26px;
+		font-weight: 700;
+	}
+}

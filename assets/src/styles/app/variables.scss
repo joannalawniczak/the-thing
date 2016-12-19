@@ -1,12 +1,17 @@
 // Layout.
-$content-width: 1200px;
-$page-header-height: 70px;
+$content-width: 1400px;
+
+// Layout colors.
+$navy: #0f0a2b;
+$red: #ff553e;
+$blue: #505cfe;
+$white: #eaeaea;
+$grey: #afafaf;
 
 // Text colors.
-$color-text: #000;
-
-$color-link: #000;
-$color-link-hover: #000;
+$color-text: $white;
+$color-link: $white;
+$color-link-hover: $white;
 
 // Breakpoints.
 $breakpoint-mobile-navigation: 860px;

@@ -1,6 +1,14 @@
 // General text styles.
 body {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
 	color: $color-text;
+}
+
+// Header styles.
+h2 {
+	font-size: 44px;
+	line-height: 60px;
 }
 
 // Link styles.
@@ -12,4 +20,12 @@ a {
 		text-decoration: underline;
 		color: $color-link-hover;
 	}
+}
+
+// Text styles.
+p {
+	color: $grey;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 36px;
 }

@@ -1,0 +1,23 @@
+.item {
+	padding-top: 180px;
+	padding-bottom: 180px;
+
+	h2 {
+		padding-bottom: 30px;
+	}
+
+	&.create {
+		background: url('../../dist/images/bg-create.svg') 100% 50% no-repeat;
+		padding-right: 840px;
+	}
+
+	&.play {
+		padding-left: 60%;
+		background: url('../../dist/images/bg-play.svg') 0 50% no-repeat;
+	}
+
+	&.learn {
+		background: url('../../dist/images/bg-learn.svg') 100% 50% no-repeat;
+		padding-right: 60%;
+	}
+}

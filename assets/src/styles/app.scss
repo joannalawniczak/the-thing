@@ -1,11 +1,17 @@
 // Vendors.
 @import '../../../node_modules/normalize-scss/sass/normalize/import-now';
 
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
 // Generic assets.
 @import './app/variables';
 @import './app/typography';
 @import './app/layout';
+@import './app/reset';
 
 // Theme assets.
-@import './app/page-header';
 @import './app/page-nav';
+@import './app/welcome';
+@import './app/features';
+@import './app/item';
