@@ -2,13 +2,9 @@
 	padding-top: 180px;
 	padding-bottom: 180px;
 
-	h2 {
-		padding-bottom: 30px;
-	}
-
 	&.create {
 		background: url('../../dist/images/bg-create.svg') 100% 50% no-repeat;
-		padding-right: 840px;
+		padding-right: 60%;
 	}
 
 	&.play {

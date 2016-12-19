@@ -5,10 +5,10 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
 // Generic assets.
+@import './app/reset';
 @import './app/variables';
 @import './app/typography';
 @import './app/layout';
-@import './app/reset';
 
 // Theme assets.
 @import './app/page-nav';
