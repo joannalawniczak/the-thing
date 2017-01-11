@@ -1,5 +1,7 @@
 body {
 	background-color: $navy;
+	background-image: url('../../dist/images/bg-body.svg');
+	background-size: contain;
 }
 
 .inner {
