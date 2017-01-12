@@ -1,6 +1,5 @@
 html {
-	background-color: $navy;
-	background-image: url('../../dist/images/bg-html.svg');
+	background: $navy url('../../dist/images/bg-html.svg') fixed;
 }
 
 body {
