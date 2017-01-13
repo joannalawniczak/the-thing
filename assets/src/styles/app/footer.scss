@@ -1,9 +1,16 @@
 footer {
 	position: fixed;
+	display: flex;
+	justify-content: center;
 	bottom: 0;
 	height: 700px;
 	width: 100%;
 	background: #394cd3 url('../../dist/images/bg-footer.svg') 50% 100% no-repeat;
 	background-size: cover;
 	z-index: 1;
+
+	div{
+		width: 600px;
+		background: url('../../dist/images/water-girl.svg') 50% 100% no-repeat;
+	}
 }
