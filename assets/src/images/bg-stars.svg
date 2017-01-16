@@ -3,21 +3,38 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1200px" height="800px" viewBox="0 0 1200 800" enable-background="new 0 0 1200 800" xml:space="preserve">
-<circle fill="#FFFFFF" cx="101.968" cy="76.254" r="1.704"/>
+<circle fill="#FFFFFF" cx="101.969" cy="76.254" r="1.704"/>
 <circle fill="#FFFFFF" cx="1121.704" cy="675" r="1.704"/>
-<circle fill="#FFFFFF" cx="72.801" cy="356.991" r="1.704"/>
-<circle opacity="0.4" fill="#FFFFFF" cx="849" cy="413" r="1.704"/>
-<circle opacity="0.4" fill="#FFFFFF" cx="1166" cy="466.296" r="1.704"/>
-<circle opacity="0.4" fill="#FFFFFF" cx="779" cy="512.296" r="1.704"/>
-<circle opacity="0.4" fill="#FFFFFF" cx="501.165" cy="388.557" r="1.704"/>
-<circle opacity="0.4" fill="#FFFFFF" cx="570.079" cy="353.722" r="1.704"/>
-<circle opacity="0.4" fill="#FFFFFF" cx="662" cy="615" r="1.703"/>
-<circle opacity="0.4" fill="#FFFFFF" cx="445.703" cy="750" r="1.703"/>
-<circle opacity="0.4" fill="#FFFFFF" cx="428" cy="714.297" r="1.703"/>
-<circle opacity="0.4" fill="#FFFFFF" cx="121.297" cy="566" r="1.703"/>
-<circle fill="#FFFFFF" cx="826.999" cy="163.704" r="1.704"/>
-<circle opacity="0.7" fill="#3E3ECC" cx="541.499" cy="65.796" r="1.385"/>
-<circle fill="#FFFFFF" cx="898.296" cy="70" r="1.704"/>
-<circle fill="#FFFFFF" cx="975.296" cy="528" r="1.704"/>
-<circle opacity="0.4" fill="#FFFFFF" cx="991.296" cy="497" r="1.704"/>
+<circle fill="#FFFFFF" cx="72.801" cy="356.99" r="1.704"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="849" cy="413" r="1.704"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="1166" cy="466.296" r="1.704"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="779" cy="512.296" r="1.704"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="500.469" cy="389.254" r="1.007"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="28.5" cy="30.493" r="1.007"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="589.507" cy="545.5" r="1.008"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="297" cy="652.992" r="0.693"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="417.5" cy="735.492" r="1.008"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="662" cy="615" r="1.703"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="412.192" cy="54.943" r="1.239"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="274.458" cy="79.077" r="0.733"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="327.15" cy="129.593" r="1.238"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="359.542" cy="335.612" r="1.239"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="221.808" cy="359.747" r="0.733"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="274.5" cy="410.262" r="1.238"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="950.779" cy="358.849" r="1.239"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="919.261" cy="188.5" r="1.239"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="297.738" cy="538.5" r="1.239"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="362.738" cy="463.5" r="1.239"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="965.261" cy="239.5" r="1.239"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="1001.261" cy="163.5" r="1.239"/>
+<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="813.047" cy="382.983" r="0.733"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="865.738" cy="433.499" r="1.238"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="443.203" cy="752.5" r="1.17"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="428" cy="714.297" r="1.703"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="121.297" cy="566" r="1.703"/>
+<circle fill="#FFFFFF" cx="827" cy="163.704" r="1.704"/>
+<circle opacity="0.7" fill="#3E3ECC" enable-background="new    " cx="541.5" cy="65.796" r="1.385"/>
+<circle fill="#FFFFFF" cx="898.297" cy="70" r="1.704"/>
+<circle fill="#FFFFFF" cx="975.297" cy="528" r="1.704"/>
+<circle opacity="0.4" fill="#FFFFFF" enable-background="new    " cx="991.297" cy="497" r="1.704"/>
 </svg>
