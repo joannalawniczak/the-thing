@@ -5,12 +5,35 @@ footer {
 	bottom: 0;
 	height: 700px;
 	width: 100%;
-	background: #394cd3 url('../../dist/images/bg-footer.svg') 50% 100% no-repeat;
-	background-size: cover;
+	background-color: $navy;
+	background-image:
+		url('../../dist/images/bg-footer-2.svg'),
+		url('../../dist/images/bg-stars.svg');
+	background-attachment: scroll, fixed;
+	background-repeat: no-repeat;
+	background-size: cover, 100%;
+	background-position: 50% 100%, 0 0;
 	z-index: 1;
+	padding-top: 120px;
 
 	div{
-		width: 600px;
+		width: 800px;
 		background: url('../../dist/images/water-girl.svg') 50% 100% no-repeat;
+		text-align: center;
+
+		a {
+			color: #d84867;
+			cursor: pointer;
+			transition: color .3s;
+
+			&:hover {
+				color: #ff4c6c;
+				text-decoration: none;
+			}
+		}
+
+		.bboys {
+			color: #cbc9c5;
+		}
 	}
 }
