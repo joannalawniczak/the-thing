@@ -2,59 +2,59 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="537.091px" height="325.832px" viewBox="0 0 537.091 325.832" enable-background="new 0 0 537.091 325.832"
+	 width="558.046px" height="325.832px" viewBox="-20.954 0 558.046 325.832" enable-background="new -20.954 0 558.046 325.832"
 	 xml:space="preserve">
-<rect x="283.091" y="77.726" display="none" opacity="0.3" fill="none" stroke="#394CD3" stroke-width="2" stroke-miterlimit="10" enable-background="new    " width="408" height="239.727"/>
-<line fill="none" stroke="#FF553E" stroke-width="3" stroke-miterlimit="10" x1="130.091" y1="51.416" x2="177.091" y2="89.416"/>
+<rect x="283.091" y="77.726" display="none" opacity="0.3" fill="none" stroke="#394CD3" stroke-width="2" stroke-miterlimit="10" enable-background="new    " width="408.001" height="239.727"/>
+<line fill="none" stroke="#FF553E" stroke-width="3" stroke-miterlimit="10" x1="110.091" y1="56.416" x2="157.091" y2="94.416"/>
 <line fill="none" stroke="#FF553E" stroke-width="4" stroke-miterlimit="10" x1="361.091" y1="66.081" x2="389.743" y2="41.171"/>
 <line fill="none" stroke="#EBEDE4" stroke-width="6" stroke-miterlimit="10" x1="402.971" y1="92.102" x2="405.806" y2="116.511"/>
 <line fill="none" stroke="#EBEDE4" stroke-width="7.1706" stroke-miterlimit="10" x1="89.189" y1="269.533" x2="72.091" y2="246.181"/>
-<line fill="none" stroke="#EBEDE4" stroke-width="4" stroke-miterlimit="10" x1="429.757" y1="63.415" x2="472.874" y2="51.656"/>
-<path fill="none" stroke="#EBEDE4" stroke-width="3" stroke-miterlimit="10" d="M143.261,86.014c-4.09,2.766-9.65,1.69-12.417-2.401
-	l0,0c-2.767-4.091-1.691-9.652,2.4-12.418l32.812-22.18c4.09-2.767,9.651-1.691,12.417,2.4l0,0
-	c2.766,4.092,1.691,9.652-2.401,12.417L143.261,86.014z"/>
-<text transform="matrix(1 0 0 1 173.9583 285.3416)" fill="#FF553E" font-family="'Nickainley'" font-size="87.917">A</text>
-<text transform="matrix(1 0 0 1 173.9583 285.3416)" fill="none" stroke="#FF553E" stroke-width="1.4653" stroke-miterlimit="10" font-family="'Nickainley'" font-size="87.917">A</text>
+<line fill="none" stroke="#EBEDE4" stroke-width="4" stroke-miterlimit="10" x1="429.758" y1="63.415" x2="472.875" y2="51.656"/>
+<path fill="none" stroke="#EBEDE4" stroke-width="3" stroke-miterlimit="10" d="M123.261,91.014
+	c-4.091,2.766-9.65,1.689-12.417-2.401l0,0c-2.768-4.091-1.691-9.652,2.399-12.418l32.813-22.18c4.09-2.768,9.65-1.691,12.417,2.399
+	l0,0c2.766,4.092,1.69,9.652-2.401,12.417L123.261,91.014z"/>
+<text transform="matrix(1 0 0 1 173.9587 285.3416)" fill="#FF553E" font-family="'Nickainley'" font-size="87.917">A</text>
+<text transform="matrix(1 0 0 1 173.9587 285.3416)" fill="none" stroke="#FF553E" stroke-width="1.4653" stroke-miterlimit="10" font-family="'Nickainley'" font-size="87.917">A</text>
 <g>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-858.8879" y1="-43.3552" x2="-858.8879" y2="56.925" gradientTransform="matrix(0 1 -1 0 210.6533 1011.5103)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1152.6565" y1="768.6248" x2="-1152.6565" y2="668.3455" gradientTransform="matrix(0 1 1 0 -554.6167 1308.2803)">
 		<stop  offset="0" style="stop-color:#FFB640;stop-opacity:0"/>
 		<stop  offset="1" style="stop-color:#FFB640"/>
 	</linearGradient>
-	<path fill="url(#SVGID_1_)" d="M153.729,170.063v-34.88h87.2v0.35c0.704-0.229,1.431-0.35,2.18-0.35c6.017,0,10.9,7.808,10.9,17.44
-		c0,9.632-4.883,17.44-10.9,17.44c-0.75,0-1.477-0.122-2.18-0.351v0.351H153.729z"/>
+	<path fill="url(#SVGID_1_)" d="M113.729,173.063v-34.88h87.2v0.35c0.703-0.229,1.431-0.35,2.18-0.35
+		c6.017,0,10.899,7.808,10.899,17.439s-4.883,17.44-10.899,17.44c-0.75,0-1.478-0.122-2.18-0.352v0.352H113.729z"/>
 	
-		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-588.0251" y1="984.9392" x2="-565.1355" y2="984.9392" gradientTransform="matrix(-1 0 0 -1 -420.6714 1137.562)">
-		<stop  offset="0" style="stop-color:#FFB640;stop-opacity:0"/>
-		<stop  offset="1" style="stop-color:#FFB640"/>
-	</linearGradient>
-	
-		<ellipse fill="#FFB640" stroke="url(#SVGID_2_)" stroke-width="1.09" stroke-miterlimit="10" cx="155.909" cy="152.623" rx="10.9" ry="17.44"/>
-	
-		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-824.0076" y1="-12.8352" x2="-824.0076" y2="87.4446" gradientTransform="matrix(0 1 -1 0 210.6533 1011.5103)">
-		<stop  offset="0" style="stop-color:#FFB640;stop-opacity:0"/>
-		<stop  offset="1" style="stop-color:#FFB640"/>
-	</linearGradient>
-	<path fill="url(#SVGID_3_)" d="M123.209,204.943v-34.88h87.2v0.349c0.704-0.228,1.431-0.349,2.18-0.349
-		c6.017,0,10.9,7.808,10.9,17.439s-4.883,17.44-10.9,17.44c-0.75,0-1.477-0.121-2.18-0.352v0.352H123.209z"/>
-	
-		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-557.5051" y1="950.0583" x2="-534.6155" y2="950.0583" gradientTransform="matrix(-1 0 0 -1 -420.6714 1137.562)">
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-1130.8342" y1="-234.3386" x2="-1107.9436" y2="-234.3386" gradientTransform="matrix(-1 0 0 1 -1003.48 389.9619)">
 		<stop  offset="0" style="stop-color:#FFB640;stop-opacity:0"/>
 		<stop  offset="1" style="stop-color:#FFB640"/>
 	</linearGradient>
 	
-		<ellipse fill="#FFB640" stroke="url(#SVGID_4_)" stroke-width="1.09" stroke-miterlimit="10" cx="125.389" cy="187.503" rx="10.9" ry="17.44"/>
+		<ellipse fill="#FFB640" stroke="url(#SVGID_2_)" stroke-width="1.09" stroke-miterlimit="10" cx="115.909" cy="155.623" rx="10.9" ry="17.44"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-1117.7766" y1="738.1052" x2="-1117.7766" y2="637.8259" gradientTransform="matrix(0 1 1 0 -554.6167 1308.2803)">
+		<stop  offset="0" style="stop-color:#FFB640;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#FFB640"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" d="M83.209,207.943v-34.88h87.2v0.349c0.704-0.228,1.431-0.349,2.18-0.349
+		c6.018,0,10.9,7.808,10.9,17.438s-4.883,17.44-10.9,17.44c-0.75,0-1.477-0.121-2.18-0.353v0.353L83.209,207.943L83.209,207.943z"/>
+	
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-1100.3137" y1="-199.4587" x2="-1077.4241" y2="-199.4587" gradientTransform="matrix(-1 0 0 1 -1003.48 389.9619)">
+		<stop  offset="0" style="stop-color:#FFB640;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#FFB640"/>
+	</linearGradient>
+	
+		<ellipse fill="#FFB640" stroke="url(#SVGID_4_)" stroke-width="1.09" stroke-miterlimit="10" cx="85.389" cy="190.503" rx="10.899" ry="17.44"/>
 	<g>
 		
-			<ellipse fill="none" stroke="#FFB640" stroke-width="2.18" stroke-miterlimit="10" cx="153.729" cy="152.623" rx="13.08" ry="21.8"/>
+			<ellipse fill="none" stroke="#FFB640" stroke-width="2.18" stroke-miterlimit="10" cx="113.729" cy="155.623" rx="13.08" ry="21.8"/>
 		
-			<ellipse fill="none" stroke="#FFB640" stroke-width="2.18" stroke-miterlimit="10" cx="123.209" cy="187.503" rx="13.08" ry="21.8"/>
-		<path fill="none" stroke="#FFB640" stroke-width="2.18" stroke-miterlimit="10" d="M110.129,187.503c0,0-47.96,0-56.68,0
-			c-8.72,0-17.44,0-17.44,13.08"/>
-		<path fill="none" stroke="#FFB640" stroke-width="2.18" stroke-miterlimit="10" d="M166.809,148.263c0,0-47.96,0-56.68,0
-			c-8.72,0-17.44,0-17.44,13.08"/>
+			<ellipse fill="none" stroke="#FFB640" stroke-width="2.18" stroke-miterlimit="10" cx="83.209" cy="190.503" rx="13.08" ry="21.8"/>
+		<path fill="none" stroke="#FFB640" stroke-width="2.18" stroke-miterlimit="10" d="M70.129,190.503c0,0-47.96,0-56.68,0
+			s-17.44,0-17.44,13.08"/>
+		<path fill="none" stroke="#FFB640" stroke-width="2.18" stroke-miterlimit="10" d="M126.809,151.263c0,0-47.96,0-56.681,0
+			c-8.72,0-17.439,0-17.439,13.08"/>
 		
-			<line fill="none" stroke="#FFB640" stroke-width="2.18" stroke-miterlimit="10" x1="141.194" y1="160.797" x2="131.929" y2="170.063"/>
+			<line fill="none" stroke="#FFB640" stroke-width="2.18" stroke-miterlimit="10" x1="101.194" y1="163.797" x2="91.929" y2="173.063"/>
 	</g>
 </g>
 <g id="Layer_2">
@@ -78,7 +78,7 @@
 	<polygon fill="#F7A328" points="297.27,144.374 346.773,107.781 303.727,64.736 254.223,101.324 	"/>
 	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="295.117,144.374 318.792,86.26 275.746,43.213 
 		252.071,101.324 	"/>
-	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="292.964,144.374 316.641,86.26 273.593,43.213 
+	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="292.964,144.374 316.641,86.26 273.594,43.213 
 		249.917,101.324 	"/>
 	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="290.813,144.374 314.489,86.26 271.442,43.213 
 		247.766,101.324 	"/>
@@ -106,17 +106,17 @@
 		<line fill="none" stroke="#FF553E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="343.317" y1="182.513" x2="365.576" y2="173.547"/>
 </g>
 <g>
-	<polygon fill="#FF553E" points="526.335,220.715 505.773,159.031 460.082,113.34 480.645,175.024 	"/>
+	<polygon fill="#FF553E" points="526.336,220.715 505.773,159.031 460.082,113.34 480.645,175.024 	"/>
 	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="508.058,222.998 505.773,159.031 460.082,113.34 
 		462.367,177.307 	"/>
-	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="503.49,222.998 503.49,159.031 457.797,113.34 
-		457.797,177.307 	"/>
+	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="503.49,222.998 503.49,159.031 457.798,113.34 
+		457.798,177.307 	"/>
 	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="501.204,222.998 501.204,159.031 455.513,113.34 
 		455.513,177.307 	"/>
-	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="494.351,222.998 498.919,159.031 453.229,113.34 
+	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="494.351,222.998 498.92,159.031 453.229,113.34 
 		448.657,177.307 	"/>
 	<polygon opacity="0.8" fill="#FF553E" enable-background="new    " points="478.36,222.998 496.636,159.031 450.944,113.34 
-		432.667,177.307 	"/>
+		432.668,177.307 	"/>
 	<polygon fill="#FF553E" points="450.944,113.34 460.082,113.34 505.773,159.031 496.636,159.031 	"/>
 </g>
 </svg>

@@ -67,19 +67,22 @@
 
 		&.create {
 			background: url('../../dist/images/bg-create.svg') 50% 100% no-repeat;
-			padding-bottom: 350px;
+			background-size: 500px;
+			padding-bottom: 300px;
 			padding-right: 0;
 		}
 
 		&.play {
 			background: url('../../dist/images/bg-play.svg') 50% 100% no-repeat;
-			padding-bottom: 320px;
+			background-size: 500px;
+			padding-bottom: 280px;
 			padding-left: 0;
 		}
 
 		&.learn {
 			background: url('../../dist/images/bg-learn.svg') 50% 100% no-repeat;
-			padding-bottom: 350px;
+			background-size: 500px;
+			padding-bottom: 300px;
 			padding-right: 0;
 		}
 	}

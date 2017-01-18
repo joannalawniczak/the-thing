@@ -2,4 +2,8 @@
 	padding-bottom: 500px;
 	text-align: center;
 	background: url('../../dist/images/bg-we-the-humans.svg') 50% 100% no-repeat;
+
+	@media all and (max-width: 1300px) {
+		background: url('../../dist/images/bg-we-the-humans-smaller.svg') 50% 100% no-repeat;
+	}
 }
