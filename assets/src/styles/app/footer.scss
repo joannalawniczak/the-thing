@@ -3,11 +3,11 @@ footer {
 	display: flex;
 	justify-content: center;
 	bottom: 0;
-	height: 700px;
+	height: 600px;
 	width: 100%;
 	background-color: $navy;
 	background-image:
-		url('../../dist/images/bg-footer-2.svg'),
+		url('../../dist/images/bg-footer.svg'),
 		url('../../dist/images/bg-stars.svg');
 	background-attachment: scroll, fixed;
 	background-repeat: no-repeat;
@@ -35,5 +35,22 @@ footer {
 		.bboys {
 			color: #cbc9c5;
 		}
+	}
+
+	@media all and (max-width: 1200px) {
+		height: 500px;
+		background-image:
+			url('../../dist/images/bg-footer-smaller.svg'),
+			url('../../dist/images/bg-stars.svg');
+		background-attachment: scroll, fixed;
+		background-repeat: no-repeat;
+		background-size: cover, 100%;
+		background-position: 50% 100%, 0 0;
+		padding-top: 90px;
+	}
+
+	@media all and (max-width: 740px) {
+		height: 400px;
+		padding-top: 100px;
 	}
 }

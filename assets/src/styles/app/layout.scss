@@ -1,6 +1,10 @@
 body {
 	background: $navy;
-	padding-bottom: 700px;
+	padding-bottom: 600px;
+
+	@media all and (max-width: 1200px) {
+		padding-bottom: 500px;
+	}
 }
 
 main {
@@ -16,6 +20,10 @@ main {
 		@media all and (max-width: 1300px) {
 			background: url('../../dist/images/bg-intro-smaller.svg') 50% 0 no-repeat;
 		}
+
+		@media all and (max-width: 740px) {
+			background: url('../../dist/images/bg-intro-smallest.svg') 50% 0 no-repeat;
+		}
 	}
 }
 
@@ -23,4 +31,8 @@ main {
 	max-width: $content-width;
 	padding: 0 40px;
 	margin: 0 auto;
+
+	@media all and (max-width: 740px) {
+		padding: 0 20px;
+	}
 }
