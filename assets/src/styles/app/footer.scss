@@ -10,7 +10,7 @@ footer {
 		url('../../dist/images/bg-footer.svg'),
 		url('../../dist/images/bg-stars.svg');
 	background-attachment: scroll, fixed;
-	background-repeat: no-repeat;
+	background-repeat: no-repeat, repeat;
 	background-size: cover, 100%;
 	background-position: 50% 100%, 0 0;
 	z-index: 1;
@@ -18,7 +18,6 @@ footer {
 
 	div {
 		width: 800px;
-		background: url('../../dist/images/water-girl.svg') 50% 100% no-repeat;
 		text-align: center;
 
 		a {
@@ -42,10 +41,6 @@ footer {
 		background-image:
 			url('../../dist/images/bg-footer-smaller.svg'),
 			url('../../dist/images/bg-stars.svg');
-		background-attachment: scroll, fixed;
-		background-repeat: no-repeat;
-		background-size: cover, 100%;
-		background-position: 50% 100%, 0 0;
 		padding-top: 90px;
 	}
 
