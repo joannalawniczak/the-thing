@@ -42,3 +42,15 @@ p {
 		line-height: 30px;
 	}
 }
+
+@media all and (max-width: 568px) {
+	h2 {
+		font-size: 32px;
+		line-height: 40px;
+		padding-bottom: 24px;
+	}
+
+	p {
+		line-height: 26px;
+	}
+}

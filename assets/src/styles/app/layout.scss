@@ -5,6 +5,10 @@ body {
 	@media all and (max-width: 1200px) {
 		padding-bottom: 500px;
 	}
+
+	@media all and (max-width: 740px) {
+		padding-bottom: 400px;
+	}
 }
 
 main {
@@ -25,6 +29,15 @@ main {
 			background: url('../../dist/images/bg-intro-smallest.svg') 50% 0 no-repeat;
 		}
 	}
+
+	@media all and (max-width: 568px) {
+		padding-bottom: 40px;
+
+		.wrapper {
+			background-position: 50% -.6%;
+			background-size: 810px;
+		}
+	}
 }
 
 .inner {
@@ -34,5 +47,9 @@ main {
 
 	@media all and (max-width: 740px) {
 		padding: 0 20px;
+	}
+
+	@media all and (max-width: 568px) {
+		padding: 0 10px;
 	}
 }

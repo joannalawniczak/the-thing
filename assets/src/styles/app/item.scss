@@ -86,6 +86,10 @@
 			padding-right: 0;
 		}
 	}
+
+	@media all and (max-width: 568px) {
+		padding-top: 100px;
+	}
 }
 
 

@@ -16,7 +16,7 @@ footer {
 	z-index: 1;
 	padding-top: 120px;
 
-	div{
+	div {
 		width: 800px;
 		background: url('../../dist/images/water-girl.svg') 50% 100% no-repeat;
 		text-align: center;
@@ -51,6 +51,17 @@ footer {
 
 	@media all and (max-width: 740px) {
 		height: 400px;
-		padding-top: 100px;
+		padding-top: 90px;
+	}
+
+	@media all and (max-width: 568px) {
+		padding-top: 170px;
+
+		div {
+			h2 {
+				font-size: 26px;
+				line-height: 30px;
+			}
+		}
 	}
 }

@@ -45,5 +45,12 @@
 			font-size: 20px;
 		}
 	}
+
+	@media all and (max-width: 568px) {
+		.inner {
+			padding-top: 70px;
+			padding-bottom: 80px;
+		}
+	}
 }
 
