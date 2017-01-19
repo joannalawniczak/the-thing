@@ -2,6 +2,8 @@
 
 [![devDependency Status](https://david-dm.org/joannalawniczak/the-thing/dev-status.svg)](https://david-dm.org/joannalawniczak/the-thing?type=dev)
 
+Vector design & webdevelopment playground - https://joannalawniczak.github.io/the-thing/
+
 ## Tasks
 - `npm run build` - production build
 - `npm run build --debug` - development build
