@@ -64,4 +64,11 @@ footer {
 			}
 		}
 	}
+
+	@media all and (max-width: 380px) {
+		background-image:
+			url('../../dist/images/bg-footer-smallest.svg'),
+			url('../../dist/images/bg-stars.svg');
+		padding-top: 100px;
+	}
 }

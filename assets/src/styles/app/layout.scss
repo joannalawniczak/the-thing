@@ -38,6 +38,12 @@ main {
 			background-size: 810px;
 		}
 	}
+
+	@media all and (max-width: 380px) {
+		.wrapper {
+			background-image: none;
+		}
+	}
 }
 
 .inner {

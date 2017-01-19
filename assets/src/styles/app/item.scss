@@ -89,6 +89,34 @@
 
 	@media all and (max-width: 568px) {
 		padding-top: 100px;
+
+		&.create {
+			background: url('../../dist/images/bg-create-smaller.svg') 50% 100% no-repeat;
+		}
+
+		&.play {
+			background: url('../../dist/images/bg-play-smaller.svg') 50% 100% no-repeat;
+		}
+
+		&.learn {
+			background: url('../../dist/images/bg-learn-smaller.svg') 50% 100% no-repeat;
+		}
+
+		&.create,
+		&.play,
+		&.learn {
+			background-size: 380px;
+			padding-bottom: 230px;
+		}
+	}
+
+	@media all and (max-width: 380px) {
+		&.create,
+		&.play,
+		&.learn {
+			background-size: 300px;
+			padding-bottom: 190px;
+		}
 	}
 }
 

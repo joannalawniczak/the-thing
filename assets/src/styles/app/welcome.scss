@@ -52,5 +52,11 @@
 			padding-bottom: 80px;
 		}
 	}
+
+	@media all and (max-width: 380px) {
+		.inner {
+			padding-top: 110px;
+		}
+	}
 }
 

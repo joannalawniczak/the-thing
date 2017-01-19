@@ -7,8 +7,11 @@
 		background: url('../../dist/images/bg-we-the-humans-smaller.svg') 50% 100% no-repeat;
 	}
 
-	@media all and (max-width: 568px) {
-		background-size: 700px;
+	@media all and (max-width: 820px) {
 		padding-bottom: 330px;
+		background-size: 700px;
+	}
+
+	@media all and (max-width: 568px) {
 	}
 }
