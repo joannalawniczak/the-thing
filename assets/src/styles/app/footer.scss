@@ -11,14 +11,18 @@ footer {
 		url('../../dist/images/bg-stars.svg');
 	background-attachment: scroll, fixed;
 	background-repeat: no-repeat, repeat;
-	background-size: cover, 100%;
+	background-size: contain, 100%;
 	background-position: 50% 100%, 0 0;
 	z-index: 1;
 	padding-top: 120px;
 
-	div {
+	.inner {
 		width: 800px;
 		text-align: center;
+
+		h2 {
+			max-width: 800px;
+		}
 
 		a {
 			color: #d84867;
@@ -34,6 +38,10 @@ footer {
 		.bboys {
 			color: #cbc9c5;
 		}
+	}
+
+	@media all and (max-width: 2500px) {
+		background-size: cover, 100%;
 	}
 
 	@media all and (max-width: 1200px) {
